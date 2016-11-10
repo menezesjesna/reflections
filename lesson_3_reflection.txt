@@ -1,2 +1,4 @@
 When would you want to use a remote repository rather than keeping all your work local?
   Remote repository helps to show the world the file and we can use them in other computers other than personal in necessary.
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Storing locally give a idea about the changes we were working on in the project.
