@@ -13,3 +13,5 @@ Describe the differences between forks, clones, and branches. When would you use
   Clones are used to save the code to my computer.
   Branches are used when we want to work a little different or add a special feature to the existing one.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+  Collaborating without using Github is difficult.May be we should ask the other collaborator to go through the code manually.
